@@ -1,0 +1,1 @@
+window.YTM_CONFIG={phoneBaseUrl:"http://PHONE_IP_HERE:8765"};
